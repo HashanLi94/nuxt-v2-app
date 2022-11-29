@@ -1,8 +1,16 @@
 [
   {
-    "name": "",
-    "path": "",
-    "component": "E:\\\\Nuxt_edu\\\\nuxt-v2-app\\\\node_modules\\\\@nuxt\\\\vue-app\\\\template\\\\pages\\\\index.vue",
-    "_name": "_6d107c94"
+    "name": "about",
+    "path": "/about",
+    "component": "E:\\\\Nuxt_edu\\\\nuxt-v2-app\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_a3c91a94"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\Nuxt_edu\\\\nuxt-v2-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6459650a"
   }
 ]
